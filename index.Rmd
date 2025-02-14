@@ -1,6 +1,6 @@
 ---
 title: "Angela Dillon"
-image: "photo.jpg"
+image: "photo3.jpg"
 links:
   - label: GitHub
     url: "https://github.com/Morningstar2025"
